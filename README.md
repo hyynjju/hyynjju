@@ -8,10 +8,9 @@ I'm a **UX/UI Designer & Frontend Developer** 👩🏻‍💻💭
 
 ## 💻 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyynjju&layout=compact&&theme=prussian)
-[![Hyunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyynjju&show_icons=true&&theme=prussian
+[![Hyunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyynjju&hide=stars,contribs=true&show_icons=true&&theme=prussian
 )](https://github.com/hyynjju/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyynjju&layout=compact&&theme=prussian)
 
 ### 📝 Languages
 
