@@ -1,3 +1,4 @@
+![Cover](docs/cover.png)
 ## 💫 About Me
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyynjju&utm_content=line">
   <img
