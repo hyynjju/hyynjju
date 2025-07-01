@@ -21,7 +21,7 @@ I'm a **UX/UI Designer & Frontend Developer** 👩🏻‍💻💭
 | **Period** | 2025.02 ~ 2025.06 | 2024.09 ~ 2024.12 | 2025.03 ~ 2025.06 | 2025.03 ~ 2025.06 |
 | **Description** | 디지털 소외 계층을 위한<br>**복약 관리 어플** | 독서 습관 형성을 위한<br>**독서 기록 어플** | 감정 설문 기반<br>**국내 여행지 추천 어플** | **해외 정착 초기 한인을<br>위한 커뮤니티** 서비스 |
 | **Frameworks** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)|
-| **My Role** | Frontend 100%<br>UX/UI Design 100% | Frontend 100%<br>UX/UI Design 100% | Frontend 100%<br>UX/UI Design 100% | UX/UI Design 100%<br>(개인 디자인 프로젝트) |
+| **My Role** | Frontend 30%<br>UX/UI Design 100% | Frontend 30%<br>UX/UI Design 100% | Frontend 100%<br>UX/UI Design 100% | UX/UI Design 100%<br>(개인 디자인 프로젝트) |
 
 
 ## 💻 Tech Stack
