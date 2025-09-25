@@ -15,14 +15,14 @@ I'm a **UX/UI Designer & Frontend Developer** 👩🏻‍💻💭
 
 ## 🚀 Projects
 
-| | [**💊 메디지**](https://github.com/team-medeasy) | [**📚 채크**](https://github.com/ChackTeam/Chack) | [**✈️ MoodTrip**](https://github.com/hyynjju/MoodTrip) | [**🌏 품**](https://www.figma.com/design/AcciIrsdLuedTcOn94sB6x/Poom---UX-UI-Design?node-id=0-1&t=KK93oH5BGJklErkE-1) |
-|--|-------------|----------------|----------------|----------------|
-| **Preview** | ![MedEasy](docs/medeasy.png) | ![Chack](docs/chack.png) | ![MoodTrip](docs/moodtrip.png) | ![Poom](docs/poom.png) |
-| **Period** | 2025.02 ~ 2025.06 | 2024.09 ~ 2024.12 | 2025.03 ~ 2025.06 | 2025.03 ~ 2025.06 |
-| **Description** | 디지털 소외 계층을 위한<br>**복약 관리 어플** | 독서 습관 형성을 위한<br>**독서 기록 어플** | 감정 설문 기반<br>**국내 여행지 추천 어플** | **해외 정착 초기 한인을<br>위한 커뮤니티** 서비스 |
-| **Frameworks** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)|
-| **My Role** | Frontend 30%<br>UX/UI Design 100% | Frontend 30%<br>UX/UI Design 100% | Frontend 100%<br>UX/UI Design 100% | UX/UI Design 100%<br>(개인 디자인 프로젝트) |
-
+| Project | Preview | Period | Description | Frameworks | My Role |
+|---------|---------|--------|-------------|------------|---------|
+| [**🗣️ yakk**](https://github.com/yakk-kr/yakk) | ![yakk](docs/yakk.png) | 2025.09 | **동시통역 학습** 서비스 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Frontend 100%<br>UX/UI Design 100% |
+| [**📊 PLog**](https://github.com/team-Plog) | ![PLog](docs/plog.png) | 2025.08 ~ 2025.09 | 애플리케이션 **성능 기록 관리** 시스템 | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | UX/UI Design 100% |
+| [**💊 메디지**](https://github.com/team-medeasy) | ![MedEasy](docs/medeasy.png) | 2025.02 ~ 2025.06 | 디지털 소외 계층을 위한 **복약 관리 어플** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Frontend 30%<br>UX/UI Design 100% |
+| [**✈️ MoodTrip**](https://github.com/hyynjju/MoodTrip) | ![MoodTrip](docs/moodtrip.png) | 2025.03 ~ 2025.06 | 감정 설문 기반 **국내 여행지 추천 어플** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) | Frontend 100%<br>UX/UI Design 100% |
+| [**🌏 품**](https://www.figma.com/design/AcciIrsdLuedTcOn94sB6x/Poom---UX-UI-Design?node-id=0-1&t=KK93oH5BGJklErkE-1) | ![Poom](docs/poom.png) | 2025.03 ~ 2025.06 | 해외 정착 초기 한인을 위한 **커뮤니티 서비스** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | UX/UI Design 100%<br>(개인 디자인 프로젝트) |
+| [**📶 QGenie**](https://github.com/team-medeasy) | ![QGenie](docs/qgenie.png) | 2025.07 ~ 2025.08 | 대화형 **SQL 질의** 플랫폼 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) | UX/UI Design 100% |
 
 ## 💻 Tech Stack
 
